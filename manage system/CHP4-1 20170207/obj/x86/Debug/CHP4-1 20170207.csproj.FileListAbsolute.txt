@@ -1,0 +1,77 @@
+C:\Users\pc\Desktop\CHP4-1 20170207\CHP4-1 20170207\bin\Debug\CHP4-1 20170207.exe
+C:\Users\pc\Desktop\CHP4-1 20170207\CHP4-1 20170207\bin\Debug\CHP4-1 20170207.pdb
+C:\Users\pc\Desktop\CHP4-1 20170207\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmLogin.resources
+C:\Users\pc\Desktop\CHP4-1 20170207\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.Properties.Resources.resources
+C:\Users\pc\Desktop\CHP4-1 20170207\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\CHP4-1 20170207\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.exe
+C:\Users\pc\Desktop\CHP4-1 20170207\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.pdb
+C:\Users\pc\Desktop\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.exe
+C:\Users\pc\Desktop\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.pdb
+C:\Users\pc\Desktop\Chp5-1 20170207\备份\CHP4-1 20170207\bin\Debug\CHP4-1 20170207.exe
+C:\Users\pc\Desktop\Chp5-1 20170207\备份\CHP4-1 20170207\bin\Debug\CHP4-1 20170207.pdb
+C:\Users\pc\Desktop\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.frmAddStudent.resources
+C:\Users\pc\Desktop\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmLogin.resources
+C:\Users\pc\Desktop\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.frmMain.resources
+C:\Users\pc\Desktop\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.Properties.Resources.resources
+C:\Users\pc\Desktop\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Chp5-2 20170209\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.exe
+C:\Users\Administrator\Desktop\Chp5-2 20170209\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.pdb
+C:\Users\Administrator\Desktop\Chp5-2 20170209\Chp5-1 20170207\备份\CHP4-1 20170207\bin\Debug\CHP4-1 20170207.exe
+C:\Users\Administrator\Desktop\Chp5-2 20170209\Chp5-1 20170207\备份\CHP4-1 20170207\bin\Debug\CHP4-1 20170207.pdb
+C:\Users\Administrator\Desktop\Chp5-2 20170209\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Chp5-2 20170209\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.frmAddStudent.resources
+C:\Users\Administrator\Desktop\Chp5-2 20170209\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmLogin.resources
+C:\Users\Administrator\Desktop\Chp5-2 20170209\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.frmMain.resources
+C:\Users\Administrator\Desktop\Chp5-2 20170209\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Chp5-2 20170209\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Chp5-2 20170209\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmSearchStudentByName.resources
+C:\Users\pc\Desktop\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.exe
+C:\Users\pc\Desktop\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.pdb
+C:\Users\pc\Desktop\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\bin\Debug\CHP4-1 20170207.exe
+C:\Users\pc\Desktop\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\bin\Debug\CHP4-1 20170207.pdb
+C:\Users\pc\Desktop\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.frmAddStudent.resources
+C:\Users\pc\Desktop\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmLogin.resources
+C:\Users\pc\Desktop\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.frmMain.resources
+C:\Users\pc\Desktop\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmSearchStudentByName.resources
+C:\Users\pc\Desktop\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.Properties.Resources.resources
+C:\Users\pc\Desktop\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.exe
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.pdb
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\bin\Debug\CHP4-1 20170207.exe
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\bin\Debug\CHP4-1 20170207.pdb
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.frmAddStudent.resources
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmLogin.resources
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.frmMain.resources
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmSearchStudentByName.resources
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.Properties.Resources.resources
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmContactUs.resources
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.exe
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.pdb
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\bin\Debug\CHP4-1 20170207.exe
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\bin\Debug\CHP4-1 20170207.pdb
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.frmAddStudent.resources
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmContactUs.resources
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmLogin.resources
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.frmMain.resources
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmSearchStudentByGrade.resources
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmSearchStudentByName.resources
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.Properties.Resources.resources
+C:\Users\pc\Desktop\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Chp5-5 20170216\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.exe
+C:\Users\Administrator\Desktop\Chp5-5 20170216\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.pdb
+C:\Users\Administrator\Desktop\Chp5-5 20170216\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\bin\Debug\CHP4-1 20170207.exe
+C:\Users\Administrator\Desktop\Chp5-5 20170216\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\bin\Debug\CHP4-1 20170207.pdb
+C:\Users\Administrator\Desktop\Chp5-5 20170216\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Chp5-5 20170216\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.frmAddStudent.resources
+C:\Users\Administrator\Desktop\Chp5-5 20170216\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmContactUs.resources
+C:\Users\Administrator\Desktop\Chp5-5 20170216\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmLogin.resources
+C:\Users\Administrator\Desktop\Chp5-5 20170216\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.frmMain.resources
+C:\Users\Administrator\Desktop\Chp5-5 20170216\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmSearchStudentByGrade.resources
+C:\Users\Administrator\Desktop\Chp5-5 20170216\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.FrmSearchStudentByName.resources
+C:\Users\Administrator\Desktop\Chp5-5 20170216\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Chp5-5 20170216\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4-1 20170207.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Chp5-5 20170216\Chp5-4 20170214\Chp5-4 20170214\Chp5-3 20170211\Chp5-3 20170211\Chp5-1 20170207\备份\CHP4-1 20170207\obj\x86\Debug\CHP4_1_20170207.frmStudentList.resources
